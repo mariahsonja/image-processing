@@ -9,14 +9,14 @@
 
 Machines can be taught to interpret and analyze images the same way our brains do. 
 Image Processing involves manipulation of an image that amplify the same to generate information out of it.
-The main goals of Image Processing is to represent processed data in a visual way, 
+The main goal of Image Processing is to represent processed data in a visual way, 
 improve the processed image quality and classify objects in the image. 
 
 **Methodologies**
 
 * <ins>Analog Image Processing</ins>: used for processing photographs, printouts, and other image hard copies.
 
-* <ins>Digital Image Processing</ins>: used for manipulating digital images with the help of complex algorithms
+* <ins>Digital Image Processing</ins>: used for manipulating digital images with the help of complex algorithms.
 
 ### This Repo
 
